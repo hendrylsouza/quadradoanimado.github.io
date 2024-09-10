@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style> 
+div {
+  width: 1000px;
+  height: 1000px;
+  background-color: #d69a3a;
+  animation-name: example;
+  animation-duration: 10s;
+}
+@keyframes example {
+  from {background-color: #d69a3a;}
+  to {background-color: brown;}
+}
+</style>
+</head>
+<body>
+<div></div>
+</body>
+</html>
